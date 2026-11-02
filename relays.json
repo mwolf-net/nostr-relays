@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-11-02",
   "relays": [
     "wss://nostr.oxtr.dev",
     "wss://relay.primal.net",
@@ -7,6 +7,7 @@
     "wss://nostr.mom",
     "wss://relay.snort.social",
     "wss://relay.damus.io",
-    "wss://nostr-pub.wellorder.net"
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.ditto.pub"
   ]
 }
